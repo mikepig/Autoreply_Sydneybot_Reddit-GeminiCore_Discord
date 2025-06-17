@@ -1,17 +1,8 @@
-# Reddit上的自动回复机器人，由Gemini驱动，支持自定义设置
+# Discord上的自动回复机器人，由Gemini驱动，支持自定义设置
 
-Reddit的自动回复机器人
+Discord的自动回复机器人
 
-[English](README_en.md)
-
-## 更新
-
-- 4/15/2024 上线公开测试Gemini核心，Sydney核心仍然有效（在Main_Zh Branch中）
-- 更新GEMINI PRO的核心用的是官方提供的API，该API是免费的，并且我做了负载均衡
-- 更新GEMINI PRO后，BOT暂时没有配置联网搜索和图片识别，但是人设框架更加稳定，不再拒绝回答
-- 欢迎更多开发者使用这个项目并提出建议！
-- CRITICAL! 更新了bot的配置代码，不再是把配置写在运行的代码中，以及一些HARD CODE，而是把配置全部写在config.json中
-- 支持对目标的每个sub为bot设置不同的人设
+将原
 
 ## 功能
 
