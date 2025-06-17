@@ -20,7 +20,9 @@ Discord的自动回复机器人
 
 ## 如何使用
 到 Google AI Studio 申请 [Gemini API Key]，免费档可日刷 15 次左右。
+
 在config.json中设置 gemini_api_key，discord bot token，根据自己的需求修改persona
+
 运行 ```python discord_bot.py```
 
 
