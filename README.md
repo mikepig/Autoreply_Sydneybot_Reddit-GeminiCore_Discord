@@ -11,6 +11,7 @@ Discord的自动回复机器人
 - 自定义机器人回复的频率和触发机器人回复的条件。
 - 可以回复图片
 - 自定义触发词
+- 当前版本更新了根据上下文6条聊天记录作为风格强化Bot的回复，但效果一般
 
 
 ## 环境
@@ -25,6 +26,10 @@ Discord的自动回复机器人
 
 运行 ```python discord_bot.py```
 
+## 未来目标
+研究更完善的聊天记录风格强化方法
+
+使用云容器搭载bot
 
 ## 来源
 - https://github.com/AutoReplySender/Youmo-SydneyBot
